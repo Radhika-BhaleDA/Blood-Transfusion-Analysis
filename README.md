@@ -86,5 +86,6 @@ Jawaharlal Nehru Engineering College, MGM — 2026
 ## 📸 Project Snapshots
 
 ### 🩸 Blood Group Distribution
-![Blood Group Distribution](outputs/blood_group_distribution.png)
+<img width="1189" height="490" alt="blood_group_distribution" src="https://github.com/user-attachments/assets/42a1fa1b-c7c9-4f96-aebc-42a0811f7b21" />
+
 
