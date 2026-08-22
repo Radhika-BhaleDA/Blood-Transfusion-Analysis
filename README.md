@@ -81,3 +81,10 @@ patient safety.
 Prepared by: Radhika Bhale
 B.Tech — Artificial Intelligence & Data Science
 Jawaharlal Nehru Engineering College, MGM — 2026
+
+
+## 📸 Project Snapshots
+
+### 🩸 Blood Group Distribution
+![Blood Group Distribution](outputs/blood_group_distribution.png)
+
