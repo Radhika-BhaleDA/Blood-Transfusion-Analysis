@@ -91,4 +91,18 @@ Jawaharlal Nehru Engineering College, MGM — 2026
 ### 👥 Gender Distribution
 <img width="503" height="490" alt="gender_distribution" src="https://github.com/user-attachments/assets/16bdf904-9501-4afd-b4b8-b82cfffdab36" />
 
+### 👶 Age Group Distribution
+<img width="1189" height="490" alt="age_group_distribution" src="https://github.com/user-attachments/assets/187c70aa-b90e-4fe8-a077-73e67f4b265d" />
+
+### 📅 Monthly Request Trend
+<img width="1189" height="490" alt="monthly_request_trend" src="https://github.com/user-attachments/assets/a8d82b9d-5340-4288-a22a-e6efc1a6f3c2" />
+
+### ⏱️ Turnaround Time Distribution
+<img width="1189" height="490" alt="tat_distribution" src="https://github.com/user-attachments/assets/31cdba93-9140-46ea-b158-99e00844733c" />
+
+### ⚠️ Blood Group Discrepancy
+<img width="666" height="690" alt="blood_group_discrepancy" src="https://github.com/user-attachments/assets/c01cd43b-febd-4a73-b594-6c3d32b13c61" />
+
+
+
 
